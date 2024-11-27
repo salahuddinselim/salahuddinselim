@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @salahuddinselim
 - 👀 I’m interested in gaming,history,programming & football.
-- 🌱 I’m currently learning C programming.
-- 💞️ I’m looking to collaborate on any C programming project.
+- 🌱 I have learned C, C++, JAVA, Javascript programming.
+- 🌱 I’m currently learning python, html, css, php and mysql.
+- 💞️ I’m looking to collaborate on any python, html, css, php and mysql programming project.
 - 🤔 I’m looking for help with Coding.
 - 💬 Don't ask me about anything.  
 - 📫 How to reach me ... 
