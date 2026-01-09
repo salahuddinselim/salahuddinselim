@@ -38,22 +38,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahuddinselim&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
-## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=salahuddinselim&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddinselim&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
@@ -64,10 +50,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salahuddinselim/salahuddinselim/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
