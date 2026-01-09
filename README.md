@@ -14,13 +14,12 @@
 ---
 
 ## 👀 About Me
-- 🎓 CSE Student from Bangladesh
-- 💻 Interested in **Programming, Gaming, History & Football**
-- 🧠 Skilled in **C, C++, Java, JavaScript**
-- 🌱 Learning **Python, HTML, CSS, PHP & MySQL**
-- 🚀 Working on **JavaFX Games & Web Applications**
-- 🤝 Open to collaboration on **Web & Java projects**
-- 📫 Reach me below ⬇️
+- 🎓 CSE Student from Bangladesh  
+- 💻 Interested in **Programming, Gaming, History & Football**  
+- 🧠 Skilled in **C, C++, Java, JavaScript**  
+- 🌱 Currently learning **Python, HTML, CSS, PHP & MySQL**  
+- 🚀 Working on **JavaFX Games & Web Applications**  
+- 🤝 Open to collaboration on **Web & Java projects**  
 
 ---
 
@@ -32,17 +31,16 @@
 ---
 
 ## 🚀 What I’m Working On
-- 🎮 Java / JavaFX Games
-- 🌐 Full-Stack Web Applications
-- 📊 Exploring Data Science & Cybersecurity
-- 🧩 Improving problem-solving & clean code
+- 🎮 Java / JavaFX Games  
+- 🌐 Full-Stack Web Applications  
+- 📊 Exploring Data Science & Cybersecurity  
+- 🧩 Improving problem-solving & clean code  
 
 ---
 
-
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahuddinselim&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salahuddinselim&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -50,7 +48,7 @@
 ## 📊 GitHub Stats & Streak
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddinselim&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=salahuddinselim&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -68,7 +66,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salahuddinselim/salahuddinselim/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/salahuddinselim/salahuddinselim/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -92,11 +90,9 @@
   </a>
 </p>
 
-<!-- force refresh -->
-
-
-
 ---
 
 ## ⚡ Fun Fact
 > 💡 *Real learning starts when tutorials end and projects begin.*
+
+<!-- force refresh -->
