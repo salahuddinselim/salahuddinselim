@@ -14,14 +14,13 @@
 ---
 
 ## 👀 About Me
-- 👋 Hi, I’m **@salahuddinselim**
-- 👀 I’m interested in **Gaming, History, Programming & Football**
-- 🌱 I have learned **C, C++, Java, JavaScript**
-- 🌱 I’m currently learning **Python, HTML, CSS, PHP & MySQL**
-- 💞️ I’m looking to collaborate on **Python, HTML, CSS, PHP & MySQL projects**
-- 🤔 I’m looking for help with **Coding**
-- 💬 Don’t ask me about anything 😄
-- 📫 How to reach me: **scroll down ⬇️**
+- 🎓 CSE Student from Bangladesh
+- 💻 Interested in **Programming, Gaming, History & Football**
+- 🧠 Skilled in **C, C++, Java, JavaScript**
+- 🌱 Learning **Python, HTML, CSS, PHP & MySQL**
+- 🚀 Working on **JavaFX Games & Web Applications**
+- 🤝 Open to collaboration on **Web & Java projects**
+- 📫 Reach me below ⬇️
 
 ---
 
@@ -33,31 +32,43 @@
 ---
 
 ## 🚀 What I’m Working On
-- 🎮 **Java / JavaFX Games**
-- 🌐 **Web Applications** (HTML, CSS, JS, PHP, MySQL)
-- 📊 Exploring **Data Science & Cybersecurity**
-- 📚 Improving **problem-solving & clean coding**
+- 🎮 Java / JavaFX Games
+- 🌐 Full-Stack Web Applications
+- 📊 Exploring Data Science & Cybersecurity
+- 🧩 Improving problem-solving & clean code
 
 ---
 
-## 📌 Featured Projects
-> *(Projects will appear here as you upload them)*
 
-- 🔹 JavaFX Game Projects  
-- 🔹 Web Development Projects  
-- 🔹 Database-driven Applications  
-- 🔹 Academic & Research-Based Work  
-
----
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salahuddinselim&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddinselim&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddinselim&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahuddinselim&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salahuddinselim/salahuddinselim/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -81,14 +92,10 @@
   </a>
 </p>
 
+force refresh readme
+
+
 ---
 
 ## ⚡ Fun Fact
-> 💡 *I believe real learning starts when tutorials end and projects begin.*
-
----
-
-<!---
-salahuddinselim/salahuddinselim is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
-Preview it to take a look at your changes.
---->
+> 💡 *Real learning starts when tutorials end and projects begin.*
