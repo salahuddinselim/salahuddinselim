@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/salahuddinselim">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=CSE+Student+from+Bangladesh;Programmer+%7C+Web+Developer;Java+%7C+Python+%7C+JavaScript;Learning+Something+New+Everyday" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=CSE+Student+from+Bangladesh;Programmer+%7C+Web+Developer;Java+%7C+Python+%7C+C;Learning+Something+New+Everyday" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 ## 👀 About Me
 - 🎓 CSE Student from Bangladesh  
 - 💻 Interested in **Programming, Gaming, History & Football**  
-- 🧠 Skilled in **C, C++, Java, JavaScript**  
-- 🌱 Currently learning **Python, HTML, CSS, PHP & MySQL**  
-- 🚀 Working on **JavaFX Games & Web Applications**  
+- 🧠 Skilled in **C, C++, Java, Python, PHP, SQL**  
+- 🌱 Currently learning **HTML, CSS, MySQL**  
+- 🚀 Learning on **ML & Backend Developer**  
 - 🤝 Open to collaboration on **Web & Java projects**  
 
 ---
@@ -31,9 +31,9 @@
 ---
 
 ## 🚀 What I’m Working On
-- 🎮 Java / JavaFX Games  
-- 🌐 Full-Stack Web Applications  
-- 📊 Exploring Data Science & Cybersecurity  
+- 🎮 JavaFX Games  
+- 🌐 Backend / Data Analyst / ML
+- 📊 Exploring Data Science &  
 - 🧩 Improving problem-solving & clean code  
 
 ---
