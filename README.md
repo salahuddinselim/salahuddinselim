@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">- 🎓 CSE Student from Bangladesh  <br>- 💻 Interested in **Programming, Gaming, History & Football**  <br>- 🧠 Skilled in **C, C++, Java, Python, PHP, SQL**  <br>- 🌱 Currently learning **HTML, CSS, MySQL**  <br>- 🚀 Learning on **ML & Backend Developer**  <br>- 🤝 Open to collaboration on **Web & Java projects**</p>
+<p align="left">- 🎓 CSE Student from Bangladesh  <br>- 💻 Interested in **Programming, Gaming, History & Football**  <br>- 🧠 Skilled in **C, C++, HTML, Java, Python, PHP, SQL**  <br>- 🌱 Currently learning **CSS, MySQL, GO**  <br>- 🚀 Learning on **ML & Backend Developer**  <br>- 🤝 Open to collaboration on **Web & Java projects**</p>
 
 ###
 
