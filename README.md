@@ -1,5 +1,4 @@
-
-//<!-- ================== HEADER ================== -->
+<!-- ================== HEADER ================== -->
 <h1 align="center">Hi 👋, I'm Salah Uddin Selim</h1>
 
 <p align="center">
