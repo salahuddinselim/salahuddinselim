@@ -1,7 +1,7 @@
 # Hi there, I'm Salah Uddin Selim 👋
 ### CSE Student & Aspiring Backend Engineer from Bangladesh
 
-I am a Computer Science & Engineering student with a strong passion for backend development, database systems, and machine learning. I love building practical, robust applications that solve real-world problems, optimizing server-side architecture, and writing efficient code from low-level systems to modern web applications.
+I am a Computer Science & Engineering student with a strong passion for backend development, database systems, and machine learning. I love building practical, robust applications that solve real-world problems.
 
 ---
 
@@ -83,8 +83,8 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="Selim's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddinselim&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" height="160" alt="Selim's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddinselim&layout=compact&theme=dark&hide_border=true&count_private=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -98,4 +98,3 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selimsalahuddin)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selimsalahuddin19@gmail.com)
-
