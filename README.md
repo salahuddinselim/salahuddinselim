@@ -96,7 +96,6 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selimsalahuddin)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selimsalahuddin19@gmail.com)
 
-*(Note: Remember to replace `your-linkedin-username` with your actual LinkedIn profile handle so recruiters can find you easily!)*
