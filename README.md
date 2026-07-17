@@ -1,16 +1,15 @@
 # Hi there, I'm Salah Uddin Selim 👋
-### CSE Student & Aspiring Backend Engineer from Bangladesh
+### CSE Student & Aspiring Data Analyst from Bangladesh
 
-I am a Computer Science & Engineering student with a strong passion for backend development, database systems, and machine learning. I love building practical, robust applications that solve real-world problems.
+I am a Computer Science & Engineering student with a strong passion for data analysis, full-stack development, and machine learning. I love turning data into insight and building practical, robust applications that solve real-world problems.
 
 ---
 
 ### 🚀 About Me
-
 - 📍 **Location:** Bangladesh (UTC +06:00)
 - 🎓 **Education:** Currently pursuing a Bachelor of Science in Computer Science & Engineering
-- 🎯 **Current Focus:** Deepening my knowledge in scalable backend architecture, API design, and concurrency
-- 🤝 **Collaboration:** Open to collaborating on impactful Web applications and full-stack projects
+- 🎯 **Current Focus:** Deepening my knowledge in data analysis, SQL, and data visualization
+- 🤝 **Collaboration:** Open to internships and research opportunities in data analysis
 - 📫 **Reach Me:** selimsalahuddin19@gmail.com
 
 ---
@@ -18,6 +17,7 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 ### 🛠️ Tech Stack
 
 **Languages**
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -26,15 +26,22 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Web & Database (Backend Focus)**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+**Data & Database**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23CC292B.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Web**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Environments**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -42,8 +49,7 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 ---
 
 ### 🎯 Current Focus & Growth
-
-- 🏗️ **Backend Architecture:** Developing RESTful APIs and asynchronous applications using **Node.js/Express**, while exploring microservices patterns and high-concurrency systems in **Go**.
+- 📊 **Data Analysis:** Building fluency in SQL querying, data cleaning, and visualization using **Pandas**, **NumPy**, and Jupyter Notebooks.
 - 🗄️ **Database Engineering:** Mastering query optimization, efficient indexing strategies, and relational database normalization in **MySQL**.
 - 🤖 **Machine Learning:** Transitioning from foundational workflows to implementing practical regression, classification, and ensemble learning models in **Python**.
 - 🧠 **Problem Solving:** Refining algorithmic thinking and complex data structure implementation using **C++**.
@@ -83,13 +89,13 @@ I am a Computer Science & Engineering student with a strong passion for backend 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" height="160" alt="Selim's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddinselim&layout=compact&theme=dark&hide_border=true&count_private=true" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=salahuddinselim&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" height="160" alt="Selim's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahuddinselim&layout=compact&theme=dark&hide_border=true&count_private=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddinselim&theme=dark&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahuddinselim&theme=dracula&hide_border=true" width="49%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salahuddinselim&theme=dark&hide_border=true" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salahuddinselim&theme=dracula&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 ---
