@@ -58,31 +58,26 @@ I am a Computer Science & Engineering student with a strong passion for data ana
 
 ### 💻 Featured Projects
 
-#### 🏆 [Tournament Management System](https://github.com/salahuddinselim)
+#### 🏆 [Tournament Management System](https://github.com/salahuddinselim/Tournament_Management)
 *A full-featured tournament management web application built as a university DBMS project.*
 - **Core Features:** Handles dynamic team registration, automated match scheduling, tournament bracket generation, and live result tracking.
 - **Key Learnings:** Designed and optimized relational database schemas to handle complex data joins and maintain transaction integrity.
 - **Tech Stack:** `PHP` • `MySQL` • `SQL` • `HTML`
 
-#### 🤝 [Tourny Mate](https://github.com/salahuddinselim)
+#### 🤝 [Tourny Mate](https://github.com/salahuddinselim/tourny_mate)
 *A dedicated companion tool tailored for tournament organizers to streamline coordination.*
 - **Core Features:** Focuses on clean server-side data handling, validation, and a user-friendly interface to manage bracket updates effortlessly.
 - **Tech Stack:** `PHP` • `MySQL`
 
-#### 🐍 [Python AI Lab](https://github.com/salahuddinselim)
-*A curated collection of practical experiments and exercises focused on AI and data science workflows.*
-- **Core Features:** Interactive Jupyter notebooks covering comprehensive data manipulation, feature exploration, visualization, and introductory ML pipelines.
-- **Tech Stack:** `Python` • `Jupyter Notebook` • `Pandas` • `NumPy`
+#### 🐍 [AI Algorithm Lab](https://github.com/salahuddinselim/Python243)
+*A collection of AI coursework assignments implementing classic search and learning algorithms from scratch.*
+- **Core Features:** Implements K-Nearest Neighbors, Hill Climbing, and Simulated Annealing algorithms as standalone Python scripts.
+- **Tech Stack:** `Python`
 
-#### 🎨 [Try Theme](https://github.com/salahuddinselim)
+#### 🎨 [Try Theme](https://github.com/salahuddinselim/Try-Theme)
 *A sleek front-end theme template built to explore responsive design architecture.*
 - **Core Features:** Focused heavily on clean layouts, semantic HTML, and fluid CSS grid/flexbox patterns across different device viewports.
 - **Tech Stack:** `HTML` • `CSS`
-
-#### 📅 [30 Days of Python](https://github.com/salahuddinselim)
-*A structured personal repository tracking my daily progress through advanced Python fundamentals.*
-- **Core Features:** Implemented hands-on scripts moving sequentially from basic data structures to object-oriented programming (OOP) and file handling.
-- **Tech Stack:** `Python`
 
 ---
 
