@@ -11,7 +11,6 @@ I am a Computer Science & Engineering student at United International University
 - 📍 **Location:** Dhaka, Bangladesh (UTC +06:00)
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering, United International University
 - 💼 **Experience:** Data Science Intern at CodeAlpha
-- 🔬 **Research:** Multimodal deep learning for pan-cancer survival prediction · leukemia classification from blood-smear images
 - 🤝 **Collaboration:** Open to internships and research opportunities in data analysis and ML
 - 📫 **Reach Me:** selimsalahuddin19@gmail.com
 
@@ -32,20 +31,6 @@ I am a Computer Science & Engineering student at United International University
 <h4>🩺 <a href="https://github.com/salahuddinselim/SwasthoLink">SwasthoLink</a></h4>
 Cryptographically verifiable e-prescriptions and medical records for doctors, pharmacists, hospitals and patients, in English and Bangla. RSA signatures, Diffie–Hellman sharing, 2FA and an admin audit log.<br/>
 <code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Tailwind</code>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/salahuddinselim/Pancancer"><img src="assets/projects/pancancer.webp" alt="Kaplan–Meier survival curves" /></a>
-<h4>🧬 <a href="https://github.com/salahuddinselim/Pancancer">Pan-Cancer Survival Prediction</a></h4>
-Deep survival model fusing clinical, mRNA and miRNA data for 9,661 TCGA patients across all cancer types, benchmarked against Cox PH and Random Survival Forest (test C-index ≈ 0.77).<br/>
-<code>Python</code> <code>PyTorch</code> <code>DeepSurv</code> <code>SHAP</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/salahuddinselim/FYPD"><img src="assets/projects/leukemia.webp" alt="Grad-CAM comparison and model metrics" /></a>
-<h4>🔬 <a href="https://github.com/salahuddinselim/FYPD">Blood Cell Leukemia Classification</a></h4>
-Final-year project: a ResNet50 + ConvNeXt + Swin teacher ensemble distilled into lightweight students that run on a CPU, with Grad-CAM explanations.<br/>
-<code>PyTorch</code> <code>Knowledge Distillation</code> <code>Grad-CAM</code>
 </td>
 <td width="50%" valign="top">
 <a href="https://bloomy-rho.vercel.app"><img src="assets/projects/bloomy.webp" alt="BloomStory landing page" /></a>
@@ -77,7 +62,7 @@ Learn Git visually: an in-browser Git simulator with animated commit graphs, doc
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/salahuddinselim/PuzzleSolving-Game"><img src="assets/projects/puzzle.webp" alt="Mystic Maze home screen" /></a>
-<h4>🧩 <a href="https://github.com/salahuddinselim/PuzzleSolving-Game">Mystic Maze</a> · 🏆 Award winner</h4>
+<h4>🧩 <a href="https://github.com/salahuddinselim/PuzzleSolving-Game">Mystic Maze</a> · 🏆 Award winner · team project</h4>
 Team-based desktop game with 5 logic puzzles, real-time chat and collaborative level unlocking.<br/>
 <code>Java</code> <code>JavaFX</code> <code>MySQL</code> <code>Sockets</code>
 </td>
@@ -134,7 +119,7 @@ Team-based desktop game with 5 logic puzzles, real-time chat and collaborative l
 
 ### 🎯 Current Focus & Growth
 - 📊 **Data Analysis:** Building fluency in SQL querying, data cleaning, and visualization with **pandas**, **NumPy** and Jupyter.
-- 🤖 **Machine Learning:** Moving from coursework to research-grade work: survival analysis, knowledge distillation and model explainability in **PyTorch**.
+- 🤖 **Machine Learning:** Building regression and classification models with **scikit-learn** and **PyTorch**, from data cleaning to evaluation.
 - 🗄️ **Database Engineering:** Query optimization, indexing strategies and relational normalization in **MySQL**.
 - 🧠 **Problem Solving:** Sharpening algorithms and data structures in **C++**.
 
